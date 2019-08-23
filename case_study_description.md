@@ -19,7 +19,9 @@ Your group has three data options for this case study.  All are public domain an
 * **Explore Transit Lines All Over the World**  
   This historical and international dataset documents how transit lines have evolved all over the world.  Besides time, number of lines, and line length, the dataset contains spatial locations that could be mapped using a geospatial library in Python like [GeoPandas](http://geopandas.org/index.html) or [Folium](https://python-visualization.github.io/folium/).  
 
-  The dataset is more fully described on Kaggle, and can be found [here.](https://www.kaggle.com/citylines/city-lines)  
+  The dataset is more fully described on Kaggle, and can be found [here.](https://www.kaggle.com/citylines/city-lines)   
+
+  This data can be difficult to parse for plotting on a map.  [Here is an example](https://www.kaggle.com/a03102030/visualization-for-tokyo-osaka-new-york) of how it might be parsed.
 
 * **Health Nutrition and Population Statistics**  
   Compiled by the World Bank, this dataset includes 345 indicators, such as immunization rates, malnutrition prevalence, and vitamin A supplementation rates across 263 countries around the world. Data was collected on a yearly basis from 1960-2016.  
