@@ -24,7 +24,9 @@ Your group has three data options for this case study.  All are public domain an
 * **Health Nutrition and Population Statistics**  
   Compiled by the World Bank, this dataset includes 345 indicators, such as immunization rates, malnutrition prevalence, and vitamin A supplementation rates across 263 countries around the world. Data was collected on a yearly basis from 1960-2016.  
 
-  The dataset is more fully described on Kaggle, and can be found [here.](https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics)  
+  The dataset is more fully described on Kaggle, and can be found [here.](https://www.kaggle.com/theworldbank/health-nutrition-and-population-statistics) 
+
+  **Note:** This dataset in its raw form is in a challenging format, where columns are years and rows are features.  Teams should try to get the data into a workable format (features as columns) to perform graphical EDA as soon as possible.  
 
 
 #### Deliverable  
