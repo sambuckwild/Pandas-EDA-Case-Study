@@ -43,8 +43,10 @@ This afternoon your group will present your results to the class from the README
     * Pictures are worth 1000s of words!
 
 If you haven't written a Markdown file (the README.md) before, here's a [guide.](https://www.makeareadme.com/)  
+<br>
 And here are some very nice examples:  
 [Traffic Accidents in Denver](https://github.com/johnherr/Traffic-Accidents-in-Denver)  
 [Provisions by Non-State Actors](https://github.com/gagejane/Terrorism-NonViolent)  
 [Purifying Hearthstone Data](https://github.com/NJacobsohn/Hearthstone-Data-Analysis)  
 [Automatic Brain Tumor Segmentation](https://github.com/naldeborgh7575/brain_segmentation)
+[UAVs for Package Delivery in Metro Denver](https://github.com/Frank-W-B/UAV_delivery_project)
