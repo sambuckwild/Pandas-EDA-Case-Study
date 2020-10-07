@@ -8,11 +8,15 @@
 
 For this first case study, you are going to apply your skills in pandas and matplotlib to do exploratory data analysis (EDA). Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
+Here is a [good example](https://www.kaggle.com/thedruid/titanic-eda-fe-and-logistic-regression-top-20) of simple EDA of the Titanic dataset.
+
 ### Expectations
 
-At the end of this case study, you will write a case study report and put it in **THIS** README markdown file (Yes, the one you are reading. You need to fork this repo and replace the contents in README file with your report.) For details of the deliverables, check the deliverable part of the [case study description](case_study_description.md).
+At the end of this case study, you will write a case study report and put it in **THIS** README markdown file (Yes, the one you are reading. You need to fork this repo and replace the contents in README file with your report.)
 
-If you haven't written a Markdown file (the README.md) before, here's a [guide](https://www.makeaREADME.com/). Or you can browse the source code of the following professional presentations in markdown format from former Galvanize students. Note that these reports are for capstone projects, not case study. Your report for today will only contain contents up to exploratory data analysis. **Focus on learning the layout and professionalism**.
+For details of the deliverables, check the deliverable part of the [case study description](case_study_description.md).
+
+If you haven't written a README Markdown file before, here's a [guide](https://www.makeaREADME.com/). Or, you can browse the source code of the following professional presentations in markdown format from former Galvanize students. Note that these reports are for capstone projects, not case study. Your report for today will only contain contents up to exploratory data analysis. **Focus on learning the layout and professionalism**.
 
 1. [Traffic Accidents in Denver](https://github.com/johnherr/Traffic-Accidents-in-Denver)
 2. [Provisions by Non-State Actors](https://github.com/gagejane/Terrorism-NonViolent)
