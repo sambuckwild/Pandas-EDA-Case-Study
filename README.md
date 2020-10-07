@@ -20,4 +20,6 @@ If you haven't written a Markdown file (the README.md) before, here's a [guide](
 4. [Automatic Brain Tumor Segmentation](https://github.com/naldeborgh7575/brain_segmentation)
 5. [UAVs for Package Delivery in Metro Denver](https://github.com/Frank-W-B/UAV_delivery_project)
 
+For the Jupyter notebook, we provided you with some high-quality notebooks created by the DS community for references.
+
 You can refer to the [case study description](case_study_description.md) for details of the case study.
