@@ -1,8 +1,18 @@
 ## Pandas-EDA-Case-Study
 
-This will become the README documenting your results. At the end of this case study, you will write a case study report and put it in **THIS** readme markdown file. For details of the deliverables, check the deliverable part of the [case study description](case_study_description.md).
+> Welcome to your first case study. A case study on Friday is a whole day activity which is closely related to what you learned in the first four days of the week.
 
-If you haven't written a Markdown file (the README.md) before, here's a [guide](https://www.makeareadme.com/). Or you can browse the source code of the following professional presentations in markdown format from former Galvanize students. Note that these reports are for capstone projects, not case study. Your report for today will only contain contents up to exploratory data analysis. Focus on learning their layout and professionalism.
+> In a case study, you will apply what you learned to real-world data and solve problems with business, social and/or economic significance.
+
+### EDA
+
+For this first case study, you are going to apply your skills in pandas and matplotlib to do exploratory data analysis (EDA). Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
+
+### Expectations
+
+At the end of this case study, you will write a case study report and put it in **THIS** README markdown file (Yes, the one you are reading. You need to fork this repo and replace the contents in README file with your report.) For details of the deliverables, check the deliverable part of the [case study description](case_study_description.md).
+
+If you haven't written a Markdown file (the README.md) before, here's a [guide](https://www.makeaREADME.com/). Or you can browse the source code of the following professional presentations in markdown format from former Galvanize students. Note that these reports are for capstone projects, not case study. Your report for today will only contain contents up to exploratory data analysis. **Focus on learning the layout and professionalism**.
 
 1. [Traffic Accidents in Denver](https://github.com/johnherr/Traffic-Accidents-in-Denver)
 2. [Provisions by Non-State Actors](https://github.com/gagejane/Terrorism-NonViolent)
