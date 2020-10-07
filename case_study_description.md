@@ -33,7 +33,7 @@ Your group has three data options for this case study.  All are public domain an
 
 #### Deliverable  
 This afternoon your group will present your results to the class from the README in your Github repository.  Your README markdown file should:  
-  * Clearly state the goal of your project (what were you exploring?)
+  * Clearly state the goal of the case study (what were you exploring?)
   * Describe the data.
     * What features (columns) did you have to work with?
     * What features were you interested in?  
@@ -42,11 +42,4 @@ This afternoon your group will present your results to the class from the README
     * How did features relate to each other, and the values that you were interested in?  
     * Pictures are worth 1000s of words!
 
-If you haven't written a Markdown file (the README.md) before, here's a [guide.](https://www.makeareadme.com/)  
-<br>
-And here are some very nice examples:  
-[Traffic Accidents in Denver](https://github.com/johnherr/Traffic-Accidents-in-Denver)  
-[Provisions by Non-State Actors](https://github.com/gagejane/Terrorism-NonViolent)  
-[Purifying Hearthstone Data](https://github.com/NJacobsohn/Hearthstone-Data-Analysis)  
-[Automatic Brain Tumor Segmentation](https://github.com/naldeborgh7575/brain_segmentation)  
-[UAVs for Package Delivery in Metro Denver](https://github.com/Frank-W-B/UAV_delivery_project)
+
