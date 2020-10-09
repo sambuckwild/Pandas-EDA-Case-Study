@@ -13,10 +13,10 @@ Here is a [good example](https://www.kaggle.com/thedruid/titanic-eda-fe-and-logi
 Here are an [example](http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab3/lab3full.ipynb) of EDA and another [example](https://nbviewer.jupyter.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb) of data wrangling with pandas from Harvard CS109 course. They are also listed in course outline material.
 
 
-
-
-
 ### Expectations
+
+You are expected to spend 1-1.5 hours on getting yourself familiar with the dataset descriptions, learning from example notebooks contributed by community. Don't dive into the coding directly. Know the requirements, draft a step-by-step plan and implement it.
+
 
 At the end of this case study, you will write a case study report and put it in **THIS** README markdown file (Yes, the one you are reading. You need to fork this repo and replace the contents in README file with your report.)
 
