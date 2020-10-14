@@ -1,0 +1,11 @@
+import pandas as pd
+cities=pd.read_csv("../input/city-lines/cities.csv")
+stations=pd.read_csv("../input/city-lines/stations.csv")
+tracks=pd.read_csv("../input/city-lines/tracks.csv")
+lines=pd.read_csv("../input/city-lines/lines.csv")
+track_lines=pd.read_csv("../input/city-lines/track_lines.csv")
+print("cities size:",len(cities))
+print("stations size:",len(stations))
+print("tracks size:",len(tracks))
+print("lines size:",len(lines))
+print("track_lines size:",len(track_lines))
